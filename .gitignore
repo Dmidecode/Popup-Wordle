@@ -3,6 +3,9 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
+/[Ll]ibrary/[Aa]rtifacts/
+/Library/Artifacts/
+Library/Artifacts/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -60,6 +63,9 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+*.meta
+*.scenetemplate
+*.apiupaterconfigs
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -70,3 +76,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Popup Wordle/Library/Artifacts
+/Popup Wordle/Library
+/Popup Wordle/ProjectSettings
+/Popup Wordle/Logs
+/Popup Wordle/Assets/TextMesh Pro
+/Popup Wordle/UserSettings
+/Popup Wordle/Packages
+/Popup Wordle/obj
+/Popup Wordle/Assets/Settings
+
