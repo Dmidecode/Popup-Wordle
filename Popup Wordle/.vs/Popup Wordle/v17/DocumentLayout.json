@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|j:\\unityproject\\popup-wordle\\popup wordle\\assets\\scenes\\initscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\initscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|j:\\unityproject\\popup-wordle\\popup wordle\\assets\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scorescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\assets\\scenes\\scoredata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scoredata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\assets\\scenes\\sc_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\sc_mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\assets\\scenes\\sc_word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\sc_word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\assets\\scenes\\sc_backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341748-5036-F600-BEC6-9B7E33337387}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\sc_backgroundscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreScript.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\ScoreScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreScript.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\ScoreScript.cs",
+              "RelativeToolTip": "Assets\\ScoreScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:34:08.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreData.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\ScoreData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\ScoreData.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\ScoreData.cs",
+              "RelativeToolTip": "Assets\\Scenes\\ScoreData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:31:48.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SC_Word.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_Word.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SC_Word.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_Word.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SC_Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:51:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InitScene.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\InitScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\InitScene.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\InitScene.cs",
+              "RelativeToolTip": "Assets\\Scenes\\InitScene.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:46:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SC_MainMenu.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SC_MainMenu.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SC_MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:20:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SC_BackgroundScaler.cs",
+              "DocumentMoniker": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_BackgroundScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\SC_BackgroundScaler.cs",
+              "ToolTip": "J:\\UnityProject\\Popup-Wordle\\Popup Wordle\\Assets\\Scenes\\SC_BackgroundScaler.cs",
+              "RelativeToolTip": "Assets\\Scenes\\SC_BackgroundScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:50:30.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
